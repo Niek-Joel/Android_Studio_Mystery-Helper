@@ -1,3 +1,31 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Android_Studio_Mystery-Helper</string>
+    <string-array name="string_array" tools:ignore="InconsistentArrays">
+        <item>"you get knocked out"</item>
+        <item>"you go somewhere else"</item>
+        <item>"you find a dead man"</item>
+        <item>"you find a dead woman"</item>
+        <item>"you meet a buxom blonde"</item>
+        <item>"someone has searched the place"</item>
+        <item>"a crooked cop warns you"</item>
+        <item>"you are arrested"</item>
+        <item>"you find a gun"</item>
+        <item>"you find a knife"</item>
+        <item>"you find a frayed rope"</item>
+        <item>"a bullet whizzes past your ear!"</item>r!
+        <item>"you are almost run over!"</item>
+        <item>"you are being followed"</item>
+        <item>"you smell familiar perfume"</item>
+        <item>"the telephone rings …"</item>
+        <item>"there is a knock at the door"</item>
+        <item>"you hear footsteps behind you …"</item>
+        <item>"you hear a gunshot!"</item>
+        <item>"you hear a scream!"</item>
+        <item>"you sense you are not alone …"</item>
+        <item>"… forget this story, it stinks!"</item>
+    </string-array>
+
+    <string name="banner_text">Press the button to get story help…</string>
+    <string name="button_text">Click me!</string>
+    <string name="default_plot_fragment">""</string>
 </resources>
